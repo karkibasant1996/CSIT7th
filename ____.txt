@@ -1,0 +1,8 @@
+fork
+clone
+rev-list
+rev-list --count head
+checkout -b branchname
+branch 
+log
+push
