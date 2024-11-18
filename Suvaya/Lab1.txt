@@ -1,0 +1,10 @@
+Learned to fork
+git clone
+git log
+git rev-list --count head
+git branch new_branch
+git add .
+git commit -m "Message"
+git push origin
+
+
